@@ -1,0 +1,1 @@
+from .views import router as template_api
